@@ -1,5 +1,5 @@
 {
-	"name": "extendui",
+	"name": "@ibrew-hub/extendui",
 	"version": "0.0.1",
 	"description": "An headless component library for react native",
 	"main": "index.js",
