@@ -1,8 +1,12 @@
 {
-  "name": "extendui",
-  "version": "0.0.1",
-  "description": "An headless component library for react native",
-  "main": "index.js",
-  "author": "Shishir Prasad",
-  "license": "MIT"
+	"name": "extendui",
+	"version": "0.0.1",
+	"description": "An headless component library for react native",
+	"main": "index.js",
+	"author": "Shishir Prasad",
+	"license": "MIT",
+	"peerDependencies": {
+		"react": "18.1.0",
+		"react-native": "0.70.6"
+	}
 }
