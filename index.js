@@ -1,12 +1,6 @@
 import React from "react";
 import { View, Text } from "react-native";
 
-const Container = () => {
-	return (
-		<View>
-			<Text>Test</Text>
-		</View>
-	);
-};
+import Button from "./src/button";
 
-export default Container;
+export { Button };
