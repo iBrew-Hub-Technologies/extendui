@@ -1,6 +1,6 @@
 {
 	"name": "@ibrew-hub/extendui",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "An headless component library for react native",
 	"main": "index.js",
 	"author": "Shishir Prasad",
@@ -27,6 +27,6 @@
 		"typescript": "4.8.4"
 	},
 	"jest": {
-    "preset": "react-native"
-  }
+		"preset": "react-native"
+	}
 }
