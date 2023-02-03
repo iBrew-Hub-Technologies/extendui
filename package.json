@@ -1,10 +1,14 @@
 {
 	"name": "@ibrew-hub/extendui",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "An headless component library for react native",
 	"main": "index.js",
 	"author": "Shishir Prasad",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iBrew-Hub-Technologies/extendui.git"
+	},
 	"peerDependencies": {
 		"react": "*",
 		"react-native": "*"
